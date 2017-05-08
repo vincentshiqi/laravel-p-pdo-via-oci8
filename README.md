@@ -2,7 +2,6 @@
 
 ###PDO via Oci8
 
-[![Build Status](https://img.shields.io/travis/vincentshiqi/laravel-p-pdo-via-oci8.svg)](https://travis-ci.org/vincentshiqi/laravel-p-pdo-via-oci8)
 [![Latest Stable Version](https://poser.pugx.org/vincentshiqi/laravel-p-pdo-via-oci8/v/stable)](https://packagist.org/packages/vincentshiqi/laravel-p-pdo-via-oci8)
 [![Total Downloads](https://poser.pugx.org/vincentshiqi/laravel-p-pdo-via-oci8/downloads)](https://packagist.org/packages/vincentshiqi/laravel-p-pdo-via-oci8)
 [![Latest Unstable Version](https://poser.pugx.org/vincentshiqi/laravel-p-pdo-via-oci8/v/unstable)](https://packagist.org/packages/vincentshiqi/laravel-p-pdo-via-oci8)
