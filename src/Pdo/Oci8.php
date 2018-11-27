@@ -104,7 +104,7 @@ class Oci8 extends PDO
             // Replace ? with a pseudo named parameter
             $parameter    = 0;
             $statement = preg_replace_callback('/(?:\'[^\']*\')(*SKIP)(*F)|\?/', function () use (&$parameter) {
-                return ':p' . $parameter++;
+                return ':p' . ++$parameter;
             }, $statement);
         }
 
